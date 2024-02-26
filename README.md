@@ -1,11 +1,10 @@
 ### Hi there 👋 Shreya Baliga here
  
-I'm a Graduate student pursuing  my Masters in Information Systems - Specializing in Software Engineering/DevOps at the College of Engineering in Northeastern University, Boston.
+I'm currently pursuing a Master's in Information Systems with a focus on Software Engineering and DevOps at Northeastern University, Boston. My academic background includes a Bachelor of Engineering in Information Science from Visvesvaraya Technological University, Karnataka, where I specialized in Computer Science and Computer Engineering.
 
 I'm interested in Fullstack Engineering, Site Reliability Engineering and DevOps!
 
-Prior to my studies at Northeastern, I worked as a Software Engineer at Ribbon Communications. The professional experience as a software developer at Ribbon Communications for one year,
-helped me explore the domain of the use of technology to attain business goals. As an energetic and passionate developer, my tasks included analyzing business requirements and managing all facets of product development lifecycle which included developing of network applications using C++,Java, Networks.
+Prior to my studies at Northeastern, I worked as a Software Engineer at Ribbon Communications. The professional experience as a software developer at Ribbon Communications for one year,helped me explore the domain of the use of technology to attain business goals. As an energetic and passionate developer, my tasks included analyzing business requirements and managing all facets of product development lifecycle which included developing of network applications using C++,Java, Networks.  In my professional experience at Ribbon Communications, I contributed significantly to product development by creating software solutions that improved server stability and performance. I also mentored interns, fostering a collaborative and growth-oriented environment.
 
 <h3>Tech Stack</h3>
 <p>
