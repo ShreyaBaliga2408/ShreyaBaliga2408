@@ -35,6 +35,12 @@ Prior to my studies at Northeastern, I worked as a Software Engineer at Ribbon C
 
 </p>
 
+<h3> Github Analytics</h3>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ShreyaBaliga2408&show_icons=true&locale=en&layout=compact&theme=merko" alt="Shreya Baliga" /></p><br>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ShreyaBaliga2408&show_icons=true&locale=en&theme=merko" alt="Shreya Baliga" /></p><br>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ShreyaBaliga2408&&theme=merko" alt="Shreya Baliga" /></p>
+
+
 <!--
 **ShreyaBaliga2408/ShreyaBaliga2408** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
