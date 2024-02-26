@@ -7,7 +7,7 @@ I'm interested in Fullstack Engineering, Site Reliability Engineering and DevOps
 Prior to my studies at Northeastern, I worked as a Software Engineer at Ribbon Communications. The professional experience as a software developer at Ribbon Communications for one year,
 helped me explore the domain of the use of technology to attain business goals. As an energetic and passionate developer, my tasks included analyzing business requirements and managing all facets of product development lifecycle which included developing of network applications using C++,Java, Networks.
 
-<h3>Things I code with</h3>
+<h3>Tech Stack</h3>
 <p>
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
   <img alt="Spring Boot" src="https://img.shields.io/badge/-Spring_Boot-8DD6F9?style=flat-square&logo=springboot&logoColor=white" /> 
