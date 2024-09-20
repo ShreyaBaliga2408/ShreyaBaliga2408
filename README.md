@@ -1,10 +1,14 @@
 ### Hi there 👋 Shreya Baliga here
  
-I'm currently pursuing a Master's in Information Systems with a focus on Software Engineering and DevOps at Northeastern University, Boston. My academic background includes a Bachelor of Engineering in Information Science from Visvesvaraya Technological University, Karnataka, where I specialized in Computer Science and Computer Engineering.
+Currently a Software Engineer , Site Reliability Engineer at Google SLO team. I have pursued a Master's in Information Systems with a focus on Software Engineering and DevOps at Northeastern University, Boston. My academic background includes a Bachelor of Engineering in Information Science from Visvesvaraya Technological University, Karnataka, where I specialized in Computer Science and Computer Engineering.
 
-I'm interested in Fullstack Engineering, Site Reliability Engineering and DevOps!
+Prior to my studies at Northeastern, I worked as a Software Engineer at Ribbon Communications. The professional experience as a software developer at Ribbon Communications for one year, helped me explore the domain of the use of technology to attain business goals. As an energetic and passionate developer, my tasks included analyzing business requirements and managing all facets of product development lifecycle which included developing of network applications using C++,Java, Networks. In my professional experience at Ribbon Communications, I contributed significantly to product development by creating software solutions that improved server stability and performance. I also mentored interns, fostering a collaborative and growth-oriented culture.
 
-Prior to my studies at Northeastern, I worked as a Software Engineer at Ribbon Communications. The professional experience as a software developer at Ribbon Communications for one year,helped me explore the domain of the use of technology to attain business goals. As an energetic and passionate developer, my tasks included analyzing business requirements and managing all facets of product development lifecycle which included developing of network applications using C++,Java, Networks.  In my professional experience at Ribbon Communications, I contributed significantly to product development by creating software solutions that improved server stability and performance. I also mentored interns, fostering a collaborative and growth-oriented environment.
+Github Link : https://github.com/ShreyaBaliga2408
+
+Email id : baligas@google.com
+
+Happy to connect :)
 
 <h3>Tech Stack</h3>
 <p>
